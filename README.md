@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @k8shively
-- 📫 kate@insightful-apps.com 
-- ⚡ I find joy in trying to solve puzzles and problems -- creatively. 
+
